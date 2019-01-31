@@ -1,0 +1,68 @@
+body{
+					font-family: Montserrat;
+							font-size: 16px;
+			}
+	p{
+					font-family: Lato;
+							font-size: 16px;
+			}
+	h1,.h1{
+					font-family: Montserrat;
+							font-size: 41px;
+			}
+	h2,.h2{
+					font-family: Montserrat;
+							font-size: 31px;
+			}
+	h3,.h3{
+					font-family: Montserrat;
+							font-size: 27px;
+			}
+	h4,.h4{
+					font-family: Montserrat;
+							font-size: 20px;
+			}
+	h5,.h5{
+					font-family: Lato;
+							font-size: 21px;
+			}
+	h6,.h6{
+					font-family: Lato;
+							font-size: 14px;
+			}
+	a{
+					}
+
+
+
+
+		
+	.slider-section .is-container {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.container-fluid > .row, .container-fluid > div > .row {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.nav>li a {
+    color: #fff !important;
+    font-size: 14px !important;
+    font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar.navbar-custom {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+	padding:0px 0px;
+    /* right: 0; */
+}
+h1 {
+    line-height: 32px !important;
+}
+	.bootstrap removable{
+		display: none;
+	}
